@@ -2,8 +2,5 @@
     writing-mode: vertical-lr;
 }
 body{
-    overflow-x: hidden;
-}
-.bg{
-    height: 100%;
+    background-image: url('images/bg.jpg');
 }
