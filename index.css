@@ -1,6 +1,10 @@
 .vertical-txt-req a{
     writing-mode: vertical-lr;
 }
+                
 body{
-    background-image: url('images/bg.jpg');
+    background-image: url('src/bg_home.png');
+}
+p {
+    font-family: 'Montserrat';
 }
